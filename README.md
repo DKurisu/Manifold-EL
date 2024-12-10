@@ -19,7 +19,11 @@ The repository includes the following files.
 * `Figure11-13-EL-median.R` : Script to reproduce the results for the Frechet median of the paleomagnetic data (Figures 11, 12, and 13 of the revised manuscript)
 * `Two-sample-mouse-plot.R` : Script to plot the mouse vertebrae data (Figure 14 of the revised manuscript)
 * `Two-sample-mouse-T1.R` : Script implementing the two-sample test for the mouse vertebrae data
+* `vgps_filtered_v1.csv` : CSV file of the paleomagnetic data.
+* `T1mice.rda` : R data file of the mouse vertebrae dataset. 
 
 The turtle data is provided in `Figure7-10-turtle.R`.
+
 To analyze the paleomagnetic data, users first road `vgps_filtered_v1.csv`.
+
 To analyze the paleomagnetic data, users first road `T1mice.rda`.
