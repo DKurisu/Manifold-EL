@@ -2,7 +2,9 @@
 
 This repository provides R code implementing empilical likelihood methods, as proposed by the following paper.
 
-Kurisu, D. and Otsu, T. (2024) Empilical likelihood for manifolds. (link to the first version: https://sticerd.lse.ac.uk/_NEW/PUBLICATIONS/abstract/?index=10671)
+Kurisu, D. and Otsu, T. (2025+) Empilical likelihood for manifolds. 
+forthcoming in Journal of the Royal Statistical Society, Series B.  
+(link to the first version: https://sticerd.lse.ac.uk/_NEW/PUBLICATIONS/abstract/?index=10671)
 
 The repository includes the following files.
 
